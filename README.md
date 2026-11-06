@@ -1,11 +1,11 @@
 # Voryx AI
 
-> Autonomous Emergency Dispatch & Intelligent Healthcare Companion
+> AI-powered healthcare companion and smart emergency triage assistant.
 
 [![Live App](https://img.shields.io/badge/Live_App-voryxai.vercel.app-blue?style=flat&logo=vercel)](https://voryxai.vercel.app/)
 
 ## Overview
-Voryx AI is an intelligent conversational health companion and autonomous emergency triage dispatch platform.
+Voryx AI is an AI-powered healthcare companion offering real-time support and smart emergency triage when it matters most.
 
 Voryx AI
 
